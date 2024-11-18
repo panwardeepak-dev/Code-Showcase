@@ -9,7 +9,7 @@ Welcome to my Code Showcase! This repository contains various projects I have wo
 ### 1. HTML Projects
 These projects demonstrate the use of basic HTML structures and elements.
 
-- **[Form Project](https://panwardeepak-dev.github.io/HTML-Projects/Project1)**  
+- **[Form Project](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-Projects/Project1)**  
   A simple HTML form to collect user information like name, username, email, and consent.
 
 ---
