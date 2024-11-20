@@ -19,8 +19,14 @@ Projects that include both HTML and CSS to create styled and responsive designs.
 
 - [Project Name](#) (Add details when you have projects here)
 
+**[Form Project](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-Projects/Project1)** 
+- A responsive and modern form styled using CSS.
+- Clean layout with responsive design.
+- Input fields with hover effects and focus states.
+- Submit button with hover color transitions.
 
 ---
+
 
 ## 🛠️ How to Use
 1. Clone the repository:  
