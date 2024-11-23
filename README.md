@@ -14,6 +14,10 @@ These projects demonstrate the use of basic HTML structures and elements.
 
 ---
 
+
+
+---
+
 ### 2. HTML + CSS Projects
 Projects that include both HTML and CSS to create styled and responsive design.
 
@@ -23,12 +27,6 @@ A responsive and modern form styled using CSS.
 - Clean layout with responsive design.
 - Input fields with hover effects and focus states.
 - Submit button with hover color transitions.
-
----
-
-### **2. HTML + CSS Projects**
-- **[Styled Form](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-CSS-Projects/Styled-Form)**:  
-  A simple form styled with CSS, featuring hover effects and a responsive design.
 
 - **[Job Application Form](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-CSS-Projects/Job-Application)**:  
   A responsive Job Application form with multiple input types and a modern design.
