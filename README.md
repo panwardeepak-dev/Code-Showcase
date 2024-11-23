@@ -28,7 +28,7 @@ A responsive and modern form styled using CSS.
 - Input fields with hover effects and focus states.
 - Submit button with hover color transitions.
 
-- **[Job Application Form](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-CSS-Projects/Job-Application)**:  
+- **[Job Application Form](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/CSS-Projects/JOB-Apply-Form)**:  
   A responsive Job Application form with multiple input types and a modern design.
   **Features:**
   - Input fields for name, email, and address.
