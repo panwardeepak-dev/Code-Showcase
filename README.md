@@ -26,6 +26,19 @@ A responsive and modern form styled using CSS.
 
 ---
 
+### **2. HTML + CSS Projects**
+- **[Styled Form](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-CSS-Projects/Styled-Form)**:  
+  A simple form styled with CSS, featuring hover effects and a responsive design.
+
+- **[Job Application Form](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-CSS-Projects/Job-Application)**:  
+  A responsive Job Application form with multiple input types and a modern design.
+  **Features:**
+  - Input fields for name, email, and address.
+  - Dropdown menu for job roles.
+  - File upload option for CV.
+  - Styled with CSS and hover effects for better UX.
+
+---
 
 ## 🛠️ How to Use
 1. Clone the repository:  
