@@ -1,4 +1,4 @@
- j# Code Showcase
+ # Code Showcase
 
 Welcome to my Code Showcase! This repository contains various projects I have worked on, categorized based on the technologies used. Each project includes a brief description, and some may include a live demo link.
 
