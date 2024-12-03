@@ -12,11 +12,6 @@ These projects demonstrate the use of basic HTML structures and elements.
 - **[Form Project](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-Projects/Project1)**  
   A simple HTML form to collect user information like name, username, email, and consent.
 
----
-
-
-
----
 
 ### 2. HTML + CSS Projects
 Projects that include both HTML and CSS to create styled and responsive design.
@@ -35,8 +30,6 @@ A responsive and modern form styled using CSS.
   - Dropdown menu for job roles.
   - File upload option for CV.
   - Styled with CSS and hover effects for better UX.
-
----
 
 - **[Amazon Clone](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/CSS-Projects/Amazon-Clone)**:  
   A replica of Amazon's home page with product categories, navbar, and footer sections.  
