@@ -38,6 +38,16 @@ A responsive and modern form styled using CSS.
 
 ---
 
+- **[Amazon Clone](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/CSS-Projects/Amazon-Clone)**:  
+  A replica of Amazon's home page with product categories, navbar, and footer sections.  
+  **Features:**
+  - Navbar with search bar, account options, and cart section.
+  - Product categories displayed in a grid layout.
+  - Hero section with a message and link.
+  - Footer with multiple panels and legal notices.
+
+---
+
 ## 🛠️ How to Use
 1. Clone the repository:  
    ```bash
