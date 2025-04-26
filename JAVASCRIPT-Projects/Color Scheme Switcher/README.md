@@ -21,7 +21,8 @@ JavaScript (Vanilla)
 📸 Screenshots
 
 Color Buttons	Color Switched
-![image](https://github.com/user-attachments/assets/d0c8332d-b0e3-4bbb-9ed9-33b951b9e65c)
+![image](https://github.com/user-attachments/assets/f4a4ad26-05fb-4188-b418-d5a094b5b15f)
+
 
 
 📂 How to Use
