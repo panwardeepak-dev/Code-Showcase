@@ -17,10 +17,4 @@ This project is a stylish **Digital Clock** built using HTML, CSS, and JavaScrip
 - Gradient background UI with modern design
 - Centered layout with custom fonts
 - Responsive on most screens
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-1. Clone the repository:
-git clone https://github.com/panwardeepak-dev/Code-Showcase/JAVASCRIPT-Projects/Digital-Clock.git
+- 
