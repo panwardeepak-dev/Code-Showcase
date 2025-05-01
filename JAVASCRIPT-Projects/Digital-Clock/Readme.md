@@ -23,5 +23,4 @@ This project is a stylish **Digital Clock** built using HTML, CSS, and JavaScrip
 To run this project locally:
 
 1. Clone the repository:
-git clone https://github.com/panwardeepak-dev/Code-Showcase/JAVASCRIPT-Projects/Digital-Clock
-.git
+git clone https://github.com/panwardeepak-dev/Code-Showcase/JAVASCRIPT-Projects/Digital-Clock.git
