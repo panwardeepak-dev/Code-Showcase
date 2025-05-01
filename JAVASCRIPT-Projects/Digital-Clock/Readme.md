@@ -2,7 +2,8 @@
 
 This project is a stylish **Digital Clock** built using HTML, CSS, and JavaScript. It displays the current time in **HH:MM:SS** format and features a modern UI design with gradient backgrounds and animated layout.
 
-![Digital Clock Screenshot](./1e38e6be-e3ac-4e45-8d2b-012e99c0889c.png)
+![Digital Clock Screenshot](![image](https://github.com/user-attachments/assets/15f0557e-4406-4b15-bd6b-b894ef31c0b6)
+)
 
 ## 🔧 Tech Stack
 
@@ -22,4 +23,4 @@ This project is a stylish **Digital Clock** built using HTML, CSS, and JavaScrip
 To run this project locally:
 
 1. Clone the repository:
-git clone https://github.com/panwardeepak-dev/digital-clock.git
+git clone https://github.com/panwardeepak-dev/JAVASCRIPT-Projects/Digital-Clock.git
