@@ -30,18 +30,19 @@ A responsive and minimalist **Weather App** built using HTML, CSS, and JavaScrip
 - **Tools:** VS Code, Git, GitHub
 
 ---
+## 🔑 Prerequisite
+You’ll need an OpenWeatherMap API key. Replace "YOUR_API_KEY" in the JavaScript file with your actual key.
+const apiKey = "YOUR_API_KEY";
 
 ## 🛠️ Getting Started
 
 Clone this repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/yourusername/weather-app.git
+git clone https://github.com/panwardeepak-dev/Weather-App.git
+
+
 cd weather-app
 open index.html
 
 ---
-
-##🔑 Prerequisite
-You’ll need an OpenWeatherMap API key. Replace "YOUR_API_KEY" in the JavaScript file with your actual key.
-const apiKey = "YOUR_API_KEY";
