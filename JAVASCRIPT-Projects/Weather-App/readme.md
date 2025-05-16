@@ -38,4 +38,4 @@ You’ll need an OpenWeatherMap API key. Replace "YOUR_API_KEY" in the JavaScrip
 ## **Usage**
 1. Clone the repository:  
    ```bash
-   git clone [https://github.com/panwardeepak-dev/Code-Showcase.git](https://github.com/panwardeepak-dev/Code-Showcase/blob/main/JAVASCRIPT-Projects/Weather-App/readme.md).git
+   git clone https://github.com/panwardeepak-dev/Code-Showcase/blob/main/JAVASCRIPT-Projects/Weather-App/readme.md
