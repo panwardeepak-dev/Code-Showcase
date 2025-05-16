@@ -35,16 +35,7 @@ You’ll need an OpenWeatherMap API key. Replace "YOUR_API_KEY" in the JavaScrip
 
  **const apiKey** = "YOUR_API_KEY";
 
-## 🛠️ Getting Started
-
-Clone this repository and open `index.html` in your browser:
-
-```bash
-git clone https://github.com/panwardeepak-dev/Code-Showcase/JAVASCRIPT-Projects
-/Weather-App.git
-
-
-cd weather-app
-open index.html
-
----
+## **Usage**
+1. Clone the repository:  
+   ```bash
+   git clone https://github.com/panwardeepak-dev/Code-Showcase.git
