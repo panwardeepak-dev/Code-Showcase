@@ -6,7 +6,7 @@ A responsive and minimalist **Weather App** built using HTML, CSS, and JavaScrip
 
 ## 📸 Preview
 
-![image](https://github.com/user-attachments/assets/84352244-ba7a-45fa-8d15-26021bdece94
+![image](https://github.com/user-attachments/assets/84352244-ba7a-45fa-8d15-26021bdece94)
 
 ---
 
