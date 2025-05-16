@@ -6,8 +6,7 @@ A responsive and minimalist **Weather App** built using HTML, CSS, and JavaScrip
 
 ## 📸 Preview
 
-![Weather App UI](![image](https://github.com/user-attachments/assets/5b418844-be8c-4cd5-b848-8f33da0d42ff)
-)
+(![image](https://github.com/user-attachments/assets/84352244-ba7a-45fa-8d15-26021bdece94)
 
 ---
 
@@ -37,7 +36,7 @@ A responsive and minimalist **Weather App** built using HTML, CSS, and JavaScrip
 Clone this repository and open `index.html` in your browser:
 
 ```bash
-git clone https://github.com/panwardeepak-dev/Weather-App.git
+git clone https://github.com/yourusername/weather-app.git
 cd weather-app
 open index.html
 
