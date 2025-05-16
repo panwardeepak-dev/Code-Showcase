@@ -31,8 +31,9 @@ A responsive and minimalist **Weather App** built using HTML, CSS, and JavaScrip
 
 ---
 ## 🔑 Prerequisite
-You’ll need an OpenWeatherMap API key. Replace "YOUR_API_KEY" in the JavaScript file with your actual key.
-const apiKey = "YOUR_API_KEY";
+You’ll need an OpenWeatherMap API key. Replace "YOUR_API_KEY" in the JavaScript file with your actual key
+
+- **const apiKey = "YOUR_API_KEY";
 
 ## 🛠️ Getting Started
 
