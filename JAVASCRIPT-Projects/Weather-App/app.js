@@ -14,7 +14,7 @@ let weatherImg = document.querySelector("#weather-img")
 //  ---checkweather function-----
 
 async function checkweather(city) {
-  const apikey = "Your Api Key";
+  const apikey = "";
   const url = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apikey}`;
   const weatherdata = await fetch(`${url}`).then((response) => response.json());
   console.log(weatherdata);
