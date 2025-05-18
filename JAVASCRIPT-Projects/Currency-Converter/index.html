@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CurencyConverter</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+  <body>
+    <div class="wrapper">
+      <div class="app-detail">
+        <h2 id="title">Currency Converter</h2>
+      </div>
+      <label for="amount">Amount:</label>
+      <input id="amount" type="number" value="" />
+      <div class="droupdown">
+        <select name="" id="Convert-from">
+          <option value="usd">USD</option>
+          <option value="inr">INR</option>
+          <option value="eur">EUR</option>
+          <option value="jpy">JPY</option>
+          <option value="thb">THB</option>
+        </select>
+        <h3>TO</h3>
+        <select name="" id="Convert-to">
+          <option value="inr">INR</option>
+          <option value="usd">USD</option>
+          <option value="eur">EUR</option>
+          <option value="jpy">JPY</option>
+          <option value="thb">THB</option>
+        </select>
+      </div>
+      <button id="Convert">Convert</button>
+      <p id="Result">00</p>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
