@@ -4,44 +4,44 @@ Welcome to my Code Showcase! This repository contains various projects I have wo
 
 ---
 
-## 📂 Categories
 
-### 1. HTML Projects
-These projects demonstrate the use of basic HTML structures and elements.
+## 📁 Project Categories
 
-- **[Form Project](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-Projects/Project1)**  
-  A simple HTML form to collect user information like name, username, email, and consent.
+### 🟨 HTML Projects
+> Pure HTML-based mini projects focused on structure, forms, and markup.
 
-
-### 2. HTML + CSS Projects
-Projects that include both HTML and CSS to create styled and responsive design.
-
-- **[Form Project](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/CSS-Projects/Project1)** 
-  A responsive and modern form styled using CSS.
-**Features:**
-- Clean layout with responsive design.
-- Input fields with hover effects and focus states.
-- Submit button with hover color transitions.
-
-- **[Job Application Form](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/CSS-Projects/JOB-Apply-Form)**:  
-  A responsive Job Application form with multiple input types and a modern design.
-  **Features:**
-  - Input fields for name, email, and address.
-  - Dropdown menu for job roles.
-  - File upload option for CV.
-  - Styled with CSS and hover effects for better UX.
-
-- **[Amazon Clone](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/CSS-Projects/Amazon-Clone)**:  
-  A replica of Amazon's home page with product categories, navbar, and footer sections.  
-  **Features:**
-  - Navbar with search bar, account options, and cart section.
-  - Product categories displayed in a grid layout.
-  - Hero section with a message and link.
-  - Footer with multiple panels and legal notices.
+- 🔹 [Project Name](link) – Short description
 
 ---
 
-## 🛠️ How to Use
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/panwardeepak-dev/Code-Showcase.git
+### 🎨 HTML + CSS Projects
+> Projects focusing on UI design, layout, and responsiveness using only HTML and CSS.
+
+- 🔹 [Job Application Form](link)  
+  Responsive job form UI with modern styling and inputs.
+
+- 🔹 [Radhika Catering Landing Page](link)  
+  Custom layout with scroll navigation and styled menu sections.
+
+---
+
+### ⚙️ HTML + CSS + JavaScript Projects
+> Interactive apps using real-world logic and DOM manipulation.
+
+- 🔹 [Currency Converter](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JS-Projects/Currency-Converter)  
+  Real-time currency conversion using open API with responsive UI.
+
+- 🔹 [Weather App](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JS-Projects/Weather-App)  
+  Fetches live weather by city using OpenWeatherMap API and displays current conditions.
+
+- 🔹 [Color Scheme Switcher](link)  
+  Lets users switch page background with color buttons using JavaScript.
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+```bash
+git clone https://github.com/panwardeepak-dev/Code-Showcase.git
+cd Code-Showcase
