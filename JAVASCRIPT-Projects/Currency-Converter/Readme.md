@@ -24,8 +24,7 @@ This project is part of my frontend development journey, focusing on API integra
 
 ## 🔗 Live Demo
 
-[Click to try the app](https://your-live-link.netlify.app)  
-*(Replace this with your actual Netlify or GitHub Pages link)*
+[Click to try the app](https://panwardeepak-dev.github.io/Currency-Converter/)  
 
 ---
 
