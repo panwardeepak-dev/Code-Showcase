@@ -28,7 +28,7 @@ Welcome to my Code Showcase! This repository contains various projects I have wo
 ### ⚙️ HTML + CSS + JavaScript Projects
 > Interactive apps using real-world logic and DOM manipulation.
 
-- 🔹 [Currency Converter](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JS-Projects/Currency-Converter)  
+- 🔹 [Currency Converter](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JAVASCRIPT-Projects/Currency-Converter)  
   Real-time currency conversion using open API with responsive UI.
 
 - 🔹 [Weather App](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JS-Projects/Weather-App)  
