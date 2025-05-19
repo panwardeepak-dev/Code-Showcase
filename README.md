@@ -10,18 +10,16 @@ Welcome to my Code Showcase! This repository contains various projects I have wo
 ### 🟨 HTML Projects
 > Pure HTML-based mini projects focused on structure, forms, and markup.
 
-- 🔹 [Project Name](link) – Short description
+- 🔹 [HTML form]([link](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/HTML-Projects/Project1)) – This is a simple HTML form that collects basic user information, such as name, username, email, and agreement.
 
 ---
 
 ### 🎨 HTML + CSS Projects
 > Projects focusing on UI design, layout, and responsiveness using only HTML and CSS.
 
-- 🔹 [Job Application Form](link)  
+- 🔹 [Job Application Form]([link](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/CSS-Projects/JOB-Apply-Form))  
   Responsive job form UI with modern styling and inputs.
 
-- 🔹 [Radhika Catering Landing Page](link)  
-  Custom layout with scroll navigation and styled menu sections.
 
 ---
 
@@ -34,7 +32,7 @@ Welcome to my Code Showcase! This repository contains various projects I have wo
 - 🔹 [Weather App](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JAVASCRIPT-Projects/Weather-App)  
   Fetches live weather by city using OpenWeatherMap API and displays current conditions.
 
-- 🔹 [Color Scheme Switcher](link)  
+- 🔹 [Color Scheme Switcher]([link](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JAVASCRIPT-Projects/Color-Scheme-Switcher))  
   Lets users switch page background with color buttons using JavaScript.
 
 ---
