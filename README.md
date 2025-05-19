@@ -32,7 +32,7 @@ Welcome to my Code Showcase! This repository contains various projects I have wo
 - 🔹 [Weather App](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JAVASCRIPT-Projects/Weather-App)  
   Fetches live weather by city using OpenWeatherMap API and displays current conditions.
 
-- 🔹 [Color Scheme Switcher]([link](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JAVASCRIPT-Projects/Color-Scheme-Switcher))  
+- 🔹 [Color Scheme Switcher](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JAVASCRIPT-Projects/Color-Scheme-Switcher)  
   Lets users switch page background with color buttons using JavaScript.
 
 ---
