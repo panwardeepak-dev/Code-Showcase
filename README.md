@@ -31,7 +31,7 @@ Welcome to my Code Showcase! This repository contains various projects I have wo
 - 🔹 [Currency Converter](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JAVASCRIPT-Projects/Currency-Converter)  
   Real-time currency conversion using open API with responsive UI.
 
-- 🔹 [Weather App](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JS-Projects/Weather-App)  
+- 🔹 [Weather App](https://github.com/panwardeepak-dev/Code-Showcase/tree/main/JAVASCRIPT-Projects/Weather-App)  
   Fetches live weather by city using OpenWeatherMap API and displays current conditions.
 
 - 🔹 [Color Scheme Switcher](link)  
